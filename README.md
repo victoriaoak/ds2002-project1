@@ -13,5 +13,8 @@
 - CSV files (.csv)
 - JSON files (.json)
 
+**Deployment**: <br>
+All deployment was done locally.
+
 <br>
 Note: outside sources cited in code; code from labs/demos were also used
